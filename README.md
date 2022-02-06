@@ -22,7 +22,7 @@ You can run these python codes by installing the requisite software in your comp
     * **Alternatively**, you can simply download a basic python installation (see the [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)) and use the included [IDLE IDE](https://docs.python.org/3/library/idle.html) for your programs.
       However, you will then have to install [Numerical Python](https://numpy.org), [Scientific Python](https://scipy.org) and [Matplotlib](https://matplotlib.org) manually using the [pip package manager](https://pypi.org/project/pip/). This is not necessary with anaconda.
     * **On Android devices**, you can install [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) to design and run python programs. See [this video](https://drive.google.com/file/d/1xnr4iZRtfbx4LQ2d7Cl3fOdQ6Utb80zI/view?usp=sharing) for setup instructions. 
-      I do not recommend using git on mobile phones (too complicated for small screens), although git apps for Android do exist in the store. You can check them out if you wish. Alternative ways of getting these
+      I do not recommend using git or jupyter on mobile phones (too complicated for small screens), although git apps for Android do exist in the store. You can check them out if you wish. Alternative ways of getting these
       codes are discussed below.
           
 2. For a quick introduction to the Python programming language, as well as [Numerical Python](https://numpy.org), [Scientific Python](https://scipy.org) and [Matplotlib](https://matplotlib.org), see [this tutorial](https://cs231n.github.io/python-numpy-tutorial/)
@@ -35,16 +35,16 @@ top right corner to see the raw code file, then download it to your device by sa
 5. You can also simply copy-paste the codes individually into your local python setup. Click on the "Copy raw contents" button on the top-right corner of the github page of a particular code 
 (to the right of the 'Blame' button), then paste it into a text editor or a running python IDE like [Spyder](https://www.spyder-ide.org/) or [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) in order to execute it.
 
-6. In case you cannot install python locally on your computer, you may run the codes through [Google Colab](https://colab.research.google.com/) by copy-pasting the python codes into colab 
-notebook cells. 
+6. In case you cannot install Python locally on your computer, you may run the codes through [Google Colab](https://colab.research.google.com/) by clicking on the links to the jupyter notebooks below, then 
+clicking on the "Open in Colab" button at the top of the notebook.
 
 List of Codes
 =========================
 
 Use the following links:
 
-* [Simple code for determining machine precision](01-MachinePrecision/mprecis.py)
-* [Examples of Numerical Interpolation](02-Interpolation)
+* [Simple code for determining machine precision](01-MachinePrecision/mprecis.py) 
+* [Examples of Numerical Interpolation](02-Interpolation) , [Jupyter notebook]()
 * Examples of Solving Systems of Linear Equations
 * Numerical Root Finding Examples
 * Examples of Numerical Integration of Functions
