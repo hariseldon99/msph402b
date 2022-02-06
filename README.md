@@ -44,7 +44,7 @@ List of Codes
 Use the following links:
 
 * [Simple code for determining machine precision](01-MachinePrecision/mprecis.py) 
-* [Examples of Numerical Interpolation](02-Interpolation) , [Jupyter notebook]()
+* [Examples of Numerical Interpolation](02-Interpolation) , [Jupyter notebook](02-Interpolation/Interpolation_all.ipynb)
 * Examples of Solving Systems of Linear Equations
 * Numerical Root Finding Examples
 * Examples of Numerical Integration of Functions
