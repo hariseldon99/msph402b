@@ -45,7 +45,7 @@ Use the following links:
 
 * [Simple code for determining machine precision](01-MachinePrecision/mprecis.py) 
 * [Examples of Numerical Interpolation](02-Interpolation) , [Jupyter notebook](Interpolation_all.ipynb)
-* Examples of Solving Systems of Linear Equations
+* Examples of Solving Systems of Linear Equations, [Jupyter notebook](Computational_Linear_Algebra_all.ipynb)
 * Numerical Root Finding Examples
 * Examples of Numerical Integration of Functions
 * Examples of Simulating Physical Systems represented by Ordinary Differential Equations
