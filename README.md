@@ -24,7 +24,7 @@ You can run these python codes by installing the requisite software in your comp
 
 3. For a more detailed introduction to the abovementioned topics, see [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures).
 
-4. In case you cannot install python locally on your computer, you may run this notebook online through [Google Colab](https://colab.research.google.com/) by copy-pasting the python code into a colab notebook.
+4. In case you cannot install python locally on your computer, you may run this notebook online through [Google Colab](https://colab.research.google.com/) by copy-pasting the python code into a colab notebook. You can click on the top-right corner of the github page for the python code in order to copy raw content
 
 
 List of Codes
