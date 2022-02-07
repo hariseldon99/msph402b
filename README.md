@@ -44,7 +44,7 @@ Use the following links:
 
 ## Scientific Python Lectures: 
  
- * [Scientific Python Lectures (including numpy and matplotlib)](https://github.com/PLACEHOLDER)
+ * [Scientific Python Lectures (including numpy and matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
 
 
 ## Numerical Methods Lectures
