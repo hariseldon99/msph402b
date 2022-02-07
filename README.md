@@ -2,10 +2,9 @@
 MSPH402B
 ============================================
 
-Python codes for MSPH402B - Computational Physics, taught at the Department of Physics, The University of Burdwan
+Python lectures and codes for MSPH402B - Computational Physics, taught at the Department of Physics, The University of Burdwan
 
-
-A repository of all my codes and simulations used to teach [Computational Physics](https://bit.ly/mphys0402b) to masters students at the 
+A repository of all my codes, tutorial lectures and simulations used to teach [Computational Physics](https://bit.ly/mphys0402b) to masters students at the 
 [Department of Physics](https://sites.google.com/a/phys.buruniv.ac.in/physics/) in [The University of Burdwan](https://www.buruniv.ac.in/)
 
 The simulations are written in the [Python programming language](https://www.python.org/about/gettingstarted/).
@@ -38,10 +37,17 @@ top right corner to see the raw code file, then download it to your device by sa
 6. In case you cannot install Python locally on your computer, you may run the codes through [Google Colab](https://colab.research.google.com/) by clicking on the links to the jupyter notebooks below, then 
 clicking on the "Open in Colab" button at the top of the notebook.
 
-List of Codes
+List of Lectures and Codes
 =========================
 
 Use the following links:
+
+## Scientific Python Lectures: 
+ 
+ * [Scientific Python Lectures (including numpy and matplotlib)](https://github.com/PLACEHOLDER)
+
+
+## Numerical Methods Lectures
 
 * [Simple code for determining machine precision](01-MachinePrecision/mprecis.py) 
 * [Examples of Numerical Interpolation](02-Interpolation) , [Jupyter notebook](Interpolation_all.ipynb)
