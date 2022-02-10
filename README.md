@@ -47,7 +47,7 @@ Use the following links:
  * [Scientific Python Tutorials (including numpy and matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
 
 
-## Numerical Methods Lectures
+## Numerical Methods, Example Codes:
 
 * [Simple code for determining machine precision](01-MachinePrecision/mprecis.py) 
 * [Examples of Numerical Interpolation](02-Interpolation) , [Jupyter notebook](Interpolation_all.ipynb)
