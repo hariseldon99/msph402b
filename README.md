@@ -37,14 +37,14 @@ top right corner to see the raw code file, then download it to your device by sa
 6. In case you cannot install Python locally on your computer, you may run the codes through [Google Colab](https://colab.research.google.com/) by clicking on the links to the jupyter notebooks below, then 
 clicking on the "Open in Colab" button at the top of the notebook.
 
-List of Lectures and Codes
+List of Tutorials and Codes
 =========================
 
 Use the following links:
 
-## Scientific Python Lectures: 
+## Scientific Python Tutorials: 
  
- * [Scientific Python Lectures (including numpy and matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
+ * [Scientific Python Tutorials (including numpy and matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
 
 
 ## Numerical Methods Lectures
