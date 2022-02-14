@@ -9,6 +9,10 @@ A repository of all my codes, tutorial lectures and simulations used to teach [C
 
 The simulations are written in the [Python programming language](https://www.python.org/about/gettingstarted/).
 
+The lecture slides can be found @ [My Google Drive](https://drive.google.com/drive/folders/0B1MOUTtP6VgCS3FzLUNJSkU3T00?resourcekey=0-Anxa-FXoffLqaPimLzAAWQ&usp=sharing{/google_docs)
+
+The website for this Course is @ [https://bit.ly/msph402b](https://bit.ly/msph402b)
+
 Instructions
 =========================
 You can run these python codes by installing the requisite software in your computer, or online through [Google Colab](https://colab.research.google.com/).
