@@ -57,7 +57,7 @@ Use the following links:
 * [Examples of Numerical Interpolation](Interpolation_all.ipynb)
 * [Examples of Solving Systems of Linear Equations](Computational_Linear_Algebra_all.ipynb)
 * [Numerical Root Finding Examples](Root_Finding.ipynb)
-* Examples of Numerical Integration of Functions
+* [Examples of Numerical Integration of Functions](Integration.ipynb)
 * Examples of Simulating Physical Systems represented by Ordinary Differential Equations
 
 License
