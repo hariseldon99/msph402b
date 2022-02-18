@@ -58,7 +58,7 @@ Use the following links:
 * [Examples of Solving Systems of Linear Equations](Computational_Linear_Algebra_all.ipynb)
 * [Numerical Root Finding Examples](Root_Finding.ipynb)
 * [Examples of Numerical Integration of Functions](Integration.ipynb)
-* Examples of Simulating Physical Systems represented by Ordinary Differential Equations
+* [Examples of Simulating Physical Systems represented by Ordinary Differential Equations](Ordinary_Differential_Equations.ipynb)
 
 License
 =======
