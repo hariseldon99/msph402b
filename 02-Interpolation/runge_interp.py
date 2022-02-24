@@ -21,7 +21,7 @@ orders = [2,5,10,19]
 for order in orders:
     xvals = np.linspace(-1.0, 1.0, order + 1)
     interpolant = lagrange(xvals, runge(xvals))
-    plt.plot(x, np.polyval(interpolant, x), label="order %d" % (order), alpha=0.6)    
+    plt.plot(x, np.polyval(interpolant, x), label=f"order {order}", alpha=0.6)    
 
 plt.ylim(-0.9,1.45)
 plt.legend()
