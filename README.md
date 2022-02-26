@@ -60,6 +60,7 @@ Use the following links:
 * [Examples of Numerical Integration of Functions](Integration.ipynb)
 * [Examples of Simulating Physical Systems represented by Ordinary Differential Equations](Ordinary_Differential_Equations.ipynb)
 * [Examples of Fast Fourier Transforms (FFT)](FFT.ipynb)
+* [Examples from Special Topics](Special_Topics.ipynb)
 
 License
 =======
