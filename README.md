@@ -1,4 +1,3 @@
-
 MSPH402B
 ============================================
 
@@ -13,38 +12,46 @@ The lecture slides can be found @ [My Google Drive](https://drive.google.com/dri
 
 The website for this Course is @ [https://bit.ly/msph402b](https://bit.ly/msph402b)
 
-Instructions
+Background
 =========================
+
+* For a quick introduction to the Python programming language, as well as [Numerical Python](https://numpy.org), [Scientific Python](https://scipy.org) and [Matplotlib](https://matplotlib.org), see [this tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+
+* For a more detailed introduction to the abovementioned topics, see Robert Johansson's [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures).
+
+# Instructions
+
 You can run these python codes by installing the requisite software in your computer, or online through [Google Colab](https://colab.research.google.com/).
 
-1. **Recommended:** In case you cannot install Python locally on your computer, you may run the codes through [Google Colab](https://colab.research.google.com/) by clicking on the links to the jupyter notebooks below, then 
-clicking on the "Open in Colab" button at the top of the notebook.
+1. **Recommended:** In case you cannot install Python locally on your computer, you may run the codes through [Google Colab](https://colab.research.google.com/) by clicking on the links to the jupyter notebooks below, then clicking on the "Open in Colab" button at the top of the notebook. This will work on any computer, mobile or tablet that has internet access and a standard web browser like Google Chrome, Microsoft Edge, Firefox or whatever. However, these codes will run on colab servers, rather than locally on your computer. This is usually not a problem, although the servers might be slow.
 
-2. In order to run these programs in your computer, perform the following steps.
-    * **On regular console computers** (desktops or laptops), install GitHub Desktop after downloading it from its website @ [desktop.github.com/](https://desktop.github.com/)
-    * Then, download this repository by cloning it using GitHub Desktop (see [This doc](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)  for details).
-    * Finally, download and install the anaconda python distribution (anaconda @ https://www.anaconda.com/). Anaconda includes [Jupyter notebooks](https://jupyter.org/) and the [Spyder IDE](https://www.spyder-ide.org/), either of which can be readily used for designing and running python code. Also, see [this blog entry](https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html) on how to install anaconda.
-    * **Alternatively**, you can simply download a basic python installation (see the [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)) and use the included [IDLE IDE](https://docs.python.org/3/library/idle.html) for your programs. **However***, you will then have to install [Numerical Python](https://numpy.org), [Scientific Python](https://scipy.org) and [Matplotlib](https://matplotlib.org) manually using the [pip package manager](https://pypi.org/project/pip/). This is not necessary with anaconda.
-    * **On Android devices**, you can install [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) to design and run python programs. See [this video](https://drive.google.com/file/d/1xnr4iZRtfbx4LQ2d7Cl3fOdQ6Utb80zI/view?usp=sharing) for setup instructions. I do not recommend using git or jupyter on mobile phones (too complicated for small screens), although git apps for Android do exist in the store. You can check them out if you wish. Alternative ways of getting these codes are discussed below.
-          
-3. For a quick introduction to the Python programming language, as well as [Numerical Python](https://numpy.org), [Scientific Python](https://scipy.org) and [Matplotlib](https://matplotlib.org), see [this tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+2. In order to run these programs locally in your computer (instead of Google Colab), perform the following steps.
+   
+   * **On regular console computers** (desktops or laptops):
+     * Install GitHub Desktop after downloading it from its website @ [desktop.github.com](https://desktop.github.com/)
+     * Then, download this repository by cloning it using GitHub Desktop (see [this doc](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)  for details).
+     * Finally, download and install the anaconda python distribution (anaconda @ https://www.anaconda.com/). Anaconda includes [Jupyter notebooks](https://jupyter.org/) and the [Spyder IDE](https://www.spyder-ide.org/), either of which can be readily used for designing and running python code. Also, see [this blog entry](https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html) on how to install anaconda.
+   * **On Android devices**: 
+     * You can install [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) to design and run python programs. 
+     * See [this video](https://drive.google.com/file/d/1xnr4iZRtfbx4LQ2d7Cl3fOdQ6Utb80zI/view?usp=sharing) for setup instructions. 
+     * I do not recommend using Git or jupyter on mobile phones (too complicated for small screens), although git apps for Android do exist in the store. You can check them out if you wish. Alternative ways of getting these codes are discussed below.
 
-4. For a more detailed introduction to the abovementioned topics, see [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures).
-
-5. If you're having problems with Git, simply copy-paste the codes individually into your local python setup. Click on the "Copy raw contents" button on the top-right corner of the github page of a particular code 
-(to the right of the 'Blame' button), then paste it into a text editor or a running python IDE like [Spyder](https://www.spyder-ide.org/) or [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) in order to execute it. **However**, this will only work for pure Python, not for Jupyter notebooks. For the latter, you can either run them in Google Colab by copy-paste, or copy-paste each code cell into a local Python file.
-
-
+3. If you're having problems with Git, and do not want to use Google Colab, you can simply copy-paste the codes individually into your local python setup:
+   
+   * Click on the "Copy raw contents" button on the top-right corner of the github page of a particular code (to the right of the 'Blame' button).
+   
+   * Then, paste it into a text editor or a running python IDE like [Spyder](https://www.spyder-ide.org/) or [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) in order to execute it. 
+   
+   * **However**, this will only work for regular Python, not for Jupyter notebooks. For the latter, you can either run them in Google Colab, or copy-paste each code cell from the jupyter notebook to a local Python file in your device. This should work well on Android devices, where it is difficult to run jupyter locally. Note, however, that IPython magics won't work in regular Python, and you'll have to delete or rewrite them.
 
 List of Tutorials and Codes
 =========================
 
 Use the following links:
 
-## Scientific Python Tutorials: 
- 
- * [Scientific Python Tutorials (including numpy and matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
+## Scientific Python Tutorials:
 
+* [Scientific Python Tutorials (including numpy and matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
 
 ## Numerical Methods, Example Codes:
 
@@ -63,8 +70,6 @@ License
 =======
 
 This work is licensed under a [MIT License](LICENSE)
-
-
 
 Author
 =======
