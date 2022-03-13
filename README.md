@@ -58,7 +58,9 @@ Use the following links:
 * [Examples of Solving Systems of Linear Equations](Computational_Linear_Algebra_all.ipynb)
 * [Numerical Root Finding Examples](Root_Finding.ipynb)
 * [Examples of Numerical Integration of Functions](Integration.ipynb)
-* [Examples of Simulating Physical Systems represented by Ordinary Differential Equations](Ordinary_Differential_Equations.ipynb)
+* [Examples of Ordinary Differential Equations (IVP) - Part 1](ODE_IVP_Pt1.ipynb)
+* [Examples of Ordinary Differential Equations (IVP) - Part 2](ODE_IVP_Pt2.ipynb)
+* [Examples of Ordinary Differential Equations (BVP)](ODE_BVP.ipynb)
 * [Examples of Fast Fourier Transforms (FFT)](FFT.ipynb)
 * [Examples from Special Topics](Special_Topics.ipynb)
 
