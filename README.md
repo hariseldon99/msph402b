@@ -64,7 +64,9 @@ Use the following links:
 * [Examples of Ordinary Differential Equations (IVP) - Part 2](ODE_IVP_Pt2.ipynb)
 * [Examples of Ordinary Differential Equations (BVP)](ODE_BVP.ipynb)
 * [Examples of Fast Fourier Transforms (FFT)](FFT.ipynb)
-* [Examples from Special Topics](Special_Topics.ipynb)
+* [Examples from Special Topics - Part 1](Special_Topics_Pt1.ipynb)
+* [Examples from Special Topics - Part 2](Special_Topics_Pt2.ipynb)
+* [Examples from Special Topics - Part 3](Special_Topics_Pt3.ipynb)
 
 License
 =======
