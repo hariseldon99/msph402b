@@ -20,9 +20,9 @@ npoints = 8
 
 xvals = np.linspace(-1.0, 1.0, npoints + 1)
 interpolant = lagrange(xvals, runge(xvals))
-plt.plot(x, np.polyval(interpolant, x),\
+plt.plot(x, interpolant(x),\
          label=f"Langrange: order {npoints}", alpha=0.5)
-plt.scatter(xvals, np.polyval(interpolant, xvals), alpha=0.5)
+plt.scatter(xvals, interpolant(xvals), alpha=0.5)
 
 spline = interp1d(xvals, runge(xvals), kind='cubic')
 plt.plot(x, spline(x), label="Cubic Spline")

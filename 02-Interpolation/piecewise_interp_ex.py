@@ -21,11 +21,11 @@ vt_pieces = [v_t[i:i + size] for i in range(0, len(v_t), step)]
 for n, tpiece in enumerate(t_pieces):
     interpolant = lagrange(tpiece, vt_pieces[n])
     t_cont = np.linspace(tpiece[0], tpiece[-1], 1000)
-    interp_vals = np.polyval(interpolant, t_cont)
+    interp_vals = interpolant(t_cont)
     plt.plot(t_cont, interp_vals, 'r--')
 
 full_interpolant = lagrange(t, v_t)
-interp_vals = np.polyval(full_interpolant, t)
+interp_vals = full_interpolant(t)
 plt.scatter(t, interp_vals, alpha=0.5)
 
 t_cont = np.linspace(0, np.pi, 1000)
