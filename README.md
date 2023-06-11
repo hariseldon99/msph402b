@@ -55,6 +55,8 @@ Use the following links:
 
 * [Quick Introduction to polynomials in NumPy](https://kitchingroup.cheme.cmu.edu/blog/2013/01/22/Polynomials-in-python/)
 
+* [Quantum Harmonic Oscillator using NumPy and Matplotlib](https://github.com/hariseldon99/Quantum-Harmonic-Numpy)
+
 ## Numerical Methods, Example Codes:
 
 * [Simple code for determining machine precision](01-MachinePrecision/mprecis.py) 
