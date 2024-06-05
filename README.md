@@ -23,26 +23,14 @@ Background
 
 You can run these python codes by installing the requisite software in your computer, or online through [Google Colab](https://colab.research.google.com/).
 
-1. **Recommended:** In case you cannot install Python locally on your computer, you may run the codes through [Google Colab](https://colab.research.google.com/) by clicking on the links to the jupyter notebooks below, then clicking on the "Open in Colab" button at the top of the notebook. This will work on any computer, mobile or tablet that has internet access and a standard web browser like Google Chrome, Microsoft Edge, Firefox or whatever. However, these codes will run on colab servers, rather than locally on your computer. This is usually not a problem, although the servers might be slow.
 
-2. In order to run these programs locally in your computer (instead of Google Colab), perform the following steps.
-   
-   * **On regular console computers** (desktops or laptops):
-     * Install GitHub Desktop after downloading it from its website @ [desktop.github.com](https://desktop.github.com/)
-     * Then, download this repository by cloning it using GitHub Desktop (see [this doc](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)  for details).
-     * Finally, download and install the anaconda python distribution (anaconda @ https://www.anaconda.com/). Anaconda includes [Jupyter notebooks](https://jupyter.org/) and the [Spyder IDE](https://www.spyder-ide.org/), either of which can be readily used for designing and running python code. Also, see [this blog entry](https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html) on how to install anaconda.
-   * **On Android devices**: 
-     * You can install [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) to design and run python programs. 
-     * See [this video](https://drive.google.com/file/d/1xnr4iZRtfbx4LQ2d7Cl3fOdQ6Utb80zI/view?usp=sharing) for setup instructions. 
-     * I do not recommend using Git or jupyter on mobile phones (too complicated for small screens), although git apps for Android do exist in the store. You can check them out if you wish. Alternative ways of getting these codes are discussed below.
+* **Suggested Approach:** If you're unable to set up Python on your local machine, you can execute the code using [Google Colab](https://colab.research.google.com/). Simply follow the links to the Jupyter notebooks provided below and press the "Open in Colab" button at the top of the notebook. This method is compatible with any device (computer, mobile, or tablet) that has internet connectivity and a standard web browser such as Google Chrome. Please note that the code will be executed on Colab's servers, not on your local machine. Usually, this doesn't cause any issues, but be aware that the servers might sometimes be slow.
 
-3. If you're having problems with Git, and do not want to use Google Colab, you can simply copy-paste the codes individually into your local python setup:
+* In order to run these programs locally in your computer (instead of Google Colab), perform the following steps.
    
-   * Click on the "Copy raw contents" button on the top-right corner of the github page of a particular code (to the right of the 'Blame' button).
-   
-   * Then, paste it into a text editor or a running python IDE like [Spyder](https://www.spyder-ide.org/) or [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) in order to execute it. 
-   
-   * **However**, this will only work for regular Python, not for Jupyter notebooks. For the latter, you can either run them in Google Colab, or copy-paste each code cell from the jupyter notebook to a local Python file in your device. This should work well on Android devices, where it is difficult to run jupyter locally. Note, however, that IPython magics won't work in regular Python, and you'll have to delete or rewrite them.
+  1. Install GitHub Desktop after downloading it from its website @ [desktop.github.com](https://desktop.github.com/)
+  2. Then, download this repository by cloning it using GitHub Desktop (see [this doc](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)  for details).
+  3. Finally, download and install the anaconda python distribution (anaconda @ https://www.anaconda.com/). Anaconda includes [Jupyter notebooks](https://jupyter.org/) and the [Spyder IDE](https://www.spyder-ide.org/), either of which can be readily used for designing and running python code. Also, see [this blog entry](https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html) on how to install anaconda.
 
 List of Tutorials and Codes
 =========================
@@ -51,11 +39,12 @@ Use the following links:
 
 ## Scientific Python Tutorials:
 
-* [Scientific Python Tutorials (including numpy and matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
+* [Quantum Harmonic Oscillator using NumPy and Matplotlib](quantum_HO.ipynb)
+
+* [Scientific Python Tutorials (including NumPy and Matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
 
 * [Quick Introduction to polynomials in NumPy](https://kitchingroup.cheme.cmu.edu/blog/2013/01/22/Polynomials-in-python/)
 
-* [Quantum Harmonic Oscillator using NumPy and Matplotlib](https://github.com/hariseldon99/Quantum-Harmonic-Numpy)
 
 ## Numerical Methods, Example Codes:
 
