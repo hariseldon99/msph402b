@@ -39,6 +39,8 @@ Use the following links:
 
 ## Scientific Python Tutorials:
 
+* [An Introduction to User-Defined Functions](User_Def_Functions.ipynb)
+
 * [Quantum Harmonic Oscillator using NumPy and Matplotlib](quantum_HO.ipynb)
 
 * [Scientific Python Tutorials (including NumPy and Matplotlib)](https://github.com/hariseldon99/scientific-python-lectures)
